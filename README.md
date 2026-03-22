@@ -1,4 +1,4 @@
-EnDecodingUNet: Deep Ghost Imaging with Learnable Row-Col Patterns
+Deep Ghost Imaging with Learnable Row-Col Patterns
 
 This repository contains a PyTorch implementation of EnDecodingUNet, a deep learning framework designed for computational ghost imaging. It features a custom RowColPatternGenerator that simulates DMD binary encoding using learnable, orthogonal patterns and a U-Net enhancer for high-quality image reconstruction.
 
